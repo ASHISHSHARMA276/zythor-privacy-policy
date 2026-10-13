@@ -414,7 +414,7 @@ All legal notices should be sent to: \[Your Contact Email/Method]
 For questions, concerns, or support regarding these Terms of Service:
 
 * **Support Server:** https://discord.gg/P3Mv7bXGP6
-**Website:** \[ZYTHOR WEBSITE](https://zythorbot.xyz)
+* **Website:** [ZYTHOR WEBSITE](https://zythorbot.xyz)
 * **Documentation:** \[Your Documentation URL]
 * **Owner ID:** 1451527544539971656
 
