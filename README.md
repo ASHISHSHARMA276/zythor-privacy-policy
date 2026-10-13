@@ -1,7 +1,7 @@
 # ZYTHOR™ Discord Bot - Terms of Service
 
-**Last Updated:** January 12, 2026  
-**Effective Date:** January 26, 2026
+**Last Updated:** October 13, 2026  
+**Effective Date:** October 13, 2026  
 
 \---
 
